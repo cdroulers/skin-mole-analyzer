@@ -24,3 +24,8 @@ Which will start the app at `http://localhost:3636/`
 This project uses Jest and Testing Library to unit test components
 
     yarn test
+
+# Relevant research / links
+
+- https://people.csail.mit.edu/billf/publications/Reliable_Skin_Mole.pdf
+- https://becominghuman.ai/melanoma-skin-cancer-detection-with-cnn-90dc3749f3d7
